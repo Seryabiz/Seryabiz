@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on AI Projects
-- 📫 Linked In: https://www.linkedin.com/in/rawlings-mayabi-82605b210/
+- 📫 LinkedIn: https://www.linkedin.com/in/rawlings-mayabi-82605b210/
 
 <!---
 Seryabiz/Seryabiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
