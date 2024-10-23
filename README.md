@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rawlings Mayabi
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently freelancing in Data Science
+- 🌱 I’m currently freelancing as a Data Scienctist on Upwork
 - 💞️ I’m looking to collaborate on AI Projects
 - 📫 LinkedIn: https://www.linkedin.com/in/rawlings-mayabi-82605b210/
 
